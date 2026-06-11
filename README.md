@@ -1,5 +1,8 @@
 # Enterprise-Data-Access-and-Relationship-Graph-Architecture
 
+<img width="1920" height="1080" alt="Screenshot 2026-06-11 064218" src="https://github.com/user-attachments/assets/7f0e3228-a194-4920-a6c5-bb5b00e59f14" />
+
+
 A security-first architecture for mapping enterprise authority, operational objects, workflow actions, and AI-assisted feedback loops without centralizing sensitive context inside a third-party SaaS platform.
 
 ## Overview
